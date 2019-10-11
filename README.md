@@ -16,3 +16,5 @@ Currently deployed packages are:
 Packages under active research are:
 * [dmg or pkg](https://github.com/saulpw/app-vd.git)
     * [research](vd-dmg.md)
+* [PyOxidizer](https://pyoxidizer.readthedocs.io/en/latest/)
+    * [research](pyoxidizer.md)
